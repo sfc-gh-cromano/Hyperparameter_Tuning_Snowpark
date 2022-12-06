@@ -1,1 +1,1 @@
-# Hyperparameter_Tuning_Snowpark
+# Parallel Hyperparameter tuning using Snowpark
